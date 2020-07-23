@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4c566a</color>
+    <color name="colorPrimaryDark">#2e3440</color>
+    <color name="colorAccent">#88c0d0</color>
+    <color name="cinza_medio">#DBDBDB</color>
+    <color name="azul_link">#88C0D0</color>
+</resources>

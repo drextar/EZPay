@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ic_scan"
+        android:icon="@drawable/ic_photo_camera_black_24dp"
+        android:title="Código de Barras"/>
+    <item android:id="@+id/ic_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Busca"/>
+    <item android:id="@+id/ic_profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Perfil"/>
+
+</menu>
